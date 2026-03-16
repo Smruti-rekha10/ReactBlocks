@@ -1,2 +1,2 @@
-ReactForgeUI is a lightweight React component library with built-in
-dark mode support, accessibility features, and high-performance UI components.
+React Blocks – A modular React component library with
+beautiful UI, dark mode support, and performance-focused components.
