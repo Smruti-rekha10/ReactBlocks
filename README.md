@@ -1,17 +1,2 @@
-# ReactBlocks
-A custom react library using JS
-This library Contains
-Modal
-Tabs
-Accordion
-AutoComplete
-DebounceSearch
-MultiSelect
-InfiniteScroll
-ImageCarousel
-StarRating
-NotificationSystem
-DragDrop
-FormBuilder
-FileUpload
-LazyImage
+ReactForgeUI is a lightweight React component library with built-in
+dark mode support, accessibility features, and high-performance UI components.
